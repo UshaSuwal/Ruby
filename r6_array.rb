@@ -52,6 +52,7 @@ puts "after joining array element by space: #{joined}"
 
 details=['Usha',23,23.5, true, ['chicken','buff'], {color:'red'}]
 puts "Array with various datatypes: #{details}"
+puts details[5].class    # hash
 
 
 
@@ -60,6 +61,7 @@ multiDimentional=[['Usha',23],['Rubin',17],['Nisha',1]]
 puts "Multi dimensional array: #{multiDimentional}"
 puts multiDimentional[1]
 puts multiDimentional[2][0]
+
 
 
 ############# simple quote generate
