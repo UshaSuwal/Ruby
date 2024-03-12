@@ -25,35 +25,3 @@ end
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# name = Hash.new(0)
-
-
-# arr.each do |i| 
-#     name[i] += 1 
-# end
-
-
-# name.each do |i, count| 
-#     puts "#{i}:#{count}" 
-# end
-
-
-
