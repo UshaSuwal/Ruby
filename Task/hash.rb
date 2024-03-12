@@ -7,7 +7,6 @@
 puts "enter a sentence"
 sentence=gets.chomp
 arr=sentence.downcase.split(" ")
-puts arr
 
 name=Hash.new(0)
 
