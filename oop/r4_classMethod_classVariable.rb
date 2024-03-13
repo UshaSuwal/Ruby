@@ -1,3 +1,6 @@
+# Class methods are declared with def self.method_name
+# Variables prefixed with @@ are class variables
+
 class Cat
     @@count=0     # class variable.  -> can be used by the entire class, but aren't specific to the instance of the class.
     def initialize(name,age)
